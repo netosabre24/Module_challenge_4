@@ -26,5 +26,5 @@ Percentage of students passing reading scores
 Overall percentage of Students passing math & reading
 * The overall passing of both reading and math was only dropped by %.1 with the data adjustment of 9th grade scores being removed and replaced with NaN
 
-#Summary
+# Summary
 Overall from the analysis of this project, scores didnt drop more than 3/10 when implented data changes of removing scores of a whole grade (9th) and replaved with NaN. This can be very useful when needing to filter grades to determine specific pools of data.
